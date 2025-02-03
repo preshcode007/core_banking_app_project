@@ -1,6 +1,8 @@
+![core banking app design](https://i.imgur.com/z2wwPWg.jpeg)
+
+
 # Core Banking Application Architecture
 
-![Architecture Diagram](assets/imagev1.png)
 
 ## Overview
 This repository contains the architectural design for a **Core Banking Application**. The system is designed to be **scalable, secure, and highly available**, ensuring seamless financial transactions and data integrity.
